@@ -1,4 +1,4 @@
-# 📊 Repositório Analisando-lojas
+# 📊 Análise de Faturamento e Desempenho de Lojas com Python
 ## 🎯 Objetivo
 Este projeto tem como objetivo realizar uma análise exploratória dos dados de quatro lojas distintas, utilizando um notebook desenvolvido em linguagem Python com o apoio das bibliotecas `pandas` e `matplotlib`. A proposta é comparar o faturamento entre as lojas e gerar um relatório que oriente a tomada de decisão, indicando qual estabelecimento apresenta o menor desempenho financeiro e, portanto, deve ser considerado para venda. A análise também busca avaliar o desempenho de vendas, identificar padrões de consumo e extrair insights relevantes com base em dados reais ou simulados de cada loja.
 
