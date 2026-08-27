@@ -33,15 +33,20 @@ O repositório conta com 02 (dois) arquivos apenas: Este arquivo README.md e o n
 6. Após o upload, para que o código funcione adequadamente, execute as células e visualize os resultados da análise.
 7. **Divirta-se, altere dados e estude tudo que está no notebook!**
 
-# 🧩 Perfil e Propósito Profissional
-## 🎓 Autor 	
-**Valdivan F. Ramos** – ***Especialista em Ciência de Dados e Big Data Analytics.*** Possui foco em análise de dados e no desenvolvimento técnico-científico orientado à aplicação educacional sistemática. Detém experiência em projetos de tratamento e visualização de dados, exploração analítica e construção de ferramentas voltadas à tomada de decisão e ao ensino de tecnologia.
+---
+## 🧩 Perfil e Propósito Profissional
 
-## 📚 Educação com Propósito
+### 🎓 Autor  
+**Valdivan F. Ramos** – 📌Analista de Sistemas Multidisciplinar | Mestrando em Eng. de Sistemas e Produtos | Docência/Pesquisa/Gestão | Eng. de Requisitos/CC | Ciência de Dados/Big Data | Dir. Digital/Compliance/LGPD | Redes/IoT/IIoT. Atuação com foco em análise de dados aplicada à educação, desenvolvimento técnico-científico e construção de ferramentas interativas que orientam a tomada de decisão.
 
-> *"Ensinar linguagens de programação é mais do que ensinar algoritmos e códigos. É educar mentes capazes de resolver problemas complexos da realidade, unindo teoria e prática, sem desprezar os valores humanos.  
-> Mas educação e valores só fazem sentido quando estão a serviço da sociedade."*  
-> — **Valdivan F. Ramos**
+
+### 📚 Educação com Propósito  
+> “Ensinar linguagens de programação é mais do que ensinar algoritmos e códigos.  
+> É educar mentes capazes de resolver problemas complexos da realidade, unindo teoria e prática, sem desprezar os valores humanos.  
+> Mas educação e valores só fazem sentido quando estão a serviço da sociedade.”  
+> — Valdivan F. Ramos
+
+---
 
 ## 📄 Referência para Currículo Lattes
 
